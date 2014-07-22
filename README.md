@@ -8,8 +8,8 @@ Installation-
 --------------
 *python 2.7 or higher must be installed-
 
-1) Put imdb.cmd file in <b>shell:sendTo</b> folder
-2) Put imdb-viewer.py in C:
+<b>(1)</b> Put imdb.cmd file in <b>shell:sendTo</b> folder
+<b>(2)</b> Put imdb-viewer.py in C:
 
 That's it, now to get details of any video file, right click it and in sendto context menu select imdb.cmd
 and a .txt file containing all details will be generated.
