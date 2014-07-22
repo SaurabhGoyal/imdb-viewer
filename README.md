@@ -1,7 +1,10 @@
 imdb-viewer
 ===========
 
-A python script to have a quick look at imdb details of current video file
+A python script to have a quick look at imdb details of current video file.
+
+<b>Since it fetches the title from current filename(current file being file or directory) hence it will work on almost any folder or file having name of the title you want to look for.</b>
+
 It works for both movies and tv-shows, hopefully for all type of cinematography available at IMDB.
 
 Installation-
