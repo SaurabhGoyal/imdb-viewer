@@ -19,11 +19,9 @@ and a .txt file containing all details will be generated.
 
 I have used following two APIs-
 
-<b>1)Guessit</b>- http://api.guessit.io/
-  to extract the correct title out of the filename.
+1) <b><a href="http://api.guessit.io/">Guessit</a></b>- to extract the correct title out of the filename.
   
-<b>2)Omdbapi</b>- http://www.omdbapi.com/
-  to get the details of the title
+2) <b><a href="http://omdbapi.com/">OmdbAPI</a></b>- to get the details of the title
   
   
 For any queries or feedback, drop a mail at saurabh.2561@gmail.com
